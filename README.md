@@ -12,9 +12,7 @@ The web application walks through the following workflow:
 - Deploy the provided VLAN/interface configuration to the target device via Catalyst Center templates
 - Monitor Catalyst Center template deployment status & view configuration summary
 
-## Contacts
 
-- Matt Schmitz (<mattsc@cisco.com>)
 
 ## Solution Components
 
